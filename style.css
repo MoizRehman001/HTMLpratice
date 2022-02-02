@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+h1{
+    color: paleturquoise;
+    padding: 50px 100px 150px 200px;
+    border: 10px solid goldenrod;
+    
+    margin: 20px 100px 200px 300px;
+    background-color: maroon;
+   
+/* element selectors are h1 and all the tag here we select the html tags we just specify the tags 
+we also have the id selector we can select the id the html page 
+we can also select the background color of the  */
+/* three ways to work with CSS */
+/* external css  */
+/* internal css and style tag also */
+/* inline css */
+
+/*  we can work with tree differnet types oof color
+1.color name 
+2. hex(we use this color the most ) syntax #001122 
+3. rgb   syntax rgb(0,0,0)
+5. hsl (hue saturation mode)
+6. hsla
+
+we can use this for the backgrounfd also
+font-size ** one pixel is one dot on screen*/
